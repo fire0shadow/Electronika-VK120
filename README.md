@@ -28,5 +28,5 @@
   </tr>
 </table>
 
-<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/VK180/master/slipcase-1c1.png">
-<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/VK180/master/stickers-1c1.png">
+<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/VK120/master/slipcase-1c1.png">
+<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/VK120/master/stickers-1c1.png">
