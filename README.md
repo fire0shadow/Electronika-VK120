@@ -15,18 +15,18 @@
     <td>Логотип завода Контур (Чебоксары)</td>
   </tr>
   <tr>
-    <td>slipcase-1c1.svg</td>
+    <td>slipcase-1.svg</td>
     <td>Коробка, вариант 1 (спасибо Radon)</td>
   </tr>
   <tr>
-    <td>stickers-1c1.svg</td>
+    <td>stickers-1.svg</td>
     <td>Наклейки, вариант 1 (спасибо Radon)</td>
   </tr>
   <tr>
-    <td>slipcase-1c1-print.svg</td>
+    <td>slipcase-1-print.svg</td>
     <td>Коробка, вариант 1 для печати и склейки</td>
   </tr>
 </table>
 
-<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/VK120/master/slipcase-1c1.png">
-<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/VK120/master/stickers-1c1.png">
+<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/VK120/master/slipcase-1.png">
+<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/VK120/master/stickers-1.png">

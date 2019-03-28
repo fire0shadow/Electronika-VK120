@@ -15,7 +15,7 @@
    version="1.1"
    id="svg2636"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="stickers.svg"
+   sodipodi:docname="stickers-1.svg"
    inkscape:export-filename="C:\Users\Fireshadow\Desktop\stickers.png"
    inkscape:export-xdpi="433.41232"
    inkscape:export-ydpi="433.41232">
@@ -490,11 +490,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="350.06749"
-     inkscape:cy="298.82793"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="94.719858"
+     inkscape:cy="191.39497"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3798-0"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
@@ -1100,7 +1100,7 @@
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          style="fill:#d78249;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 52.854404,115.38244 v 45.54613 h -2.205596 v -45.54613 z"
+         d="m 52.854404,115.38244 v 45.54613 h -2.205596 l -0.434313,-45.54613 z"
          id="path1235-7" />
       <path
          inkscape:connector-curvature="0"
@@ -1892,7 +1892,7 @@
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          style="fill:#d78249;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 52.854404,115.38244 v 45.54613 h -2.205596 v -45.54613 z"
+         d="m 52.854404,115.38244 v 45.54613 H 50.648808 L 49.98735,115.38244 Z"
          id="path1235-7-3" />
       <path
          inkscape:connector-curvature="0"
@@ -2201,24 +2201,24 @@
            style="fill:#ffffff;fill-opacity:1;stroke:#d78249;stroke-width:0.34999999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
       </g>
       <g
-         style="fill:#189a5c;fill-opacity:1"
+         style="fill:#ca783e;fill-opacity:0.94117647"
          transform="matrix(0.26653377,0,0,0.26653377,83.208855,101.63519)"
          id="g1265-1-5">
         <g
            aria-label="1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.33608818px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#d78249;fill-opacity:1;stroke:none;stroke-width:0.55840218"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.33608818px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ca783e;fill-opacity:0.94117647;stroke:none;stroke-width:0.55840218"
            id="text1214-4-0"
            transform="matrix(1.2692314,0,0,1.2692314,-50.981059,-66.118409)">
           <path
              d="m -37.152058,214.55986 v -11.4503 c -0.595343,0.66388 -2.016453,1.09531 -3.043913,1.09531 v -2.70267 c 1.830032,-0.48443 2.863697,-1.4209 3.535307,-2.5776 h 2.657994 v 15.63526 z"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Bold;-inkscape-font-specification:Gramatika-Bold;fill:#d78249;fill-opacity:1;stroke-width:0.55840218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Bold;-inkscape-font-specification:Gramatika-Bold;fill:#ca783e;fill-opacity:0.94117647;stroke-width:0.55840218"
              id="path1223-5-2"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="cccccccc" />
         </g>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.5039196px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#d78249;fill-opacity:1;stroke:none;stroke-width:0.66259795"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.5039196px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ca783e;fill-opacity:0.94117647;stroke:none;stroke-width:0.66259795"
            x="-87.872986"
            y="198.02525"
            id="text1228-23-6"
@@ -2227,10 +2227,10 @@
              id="tspan1226-3-1"
              x="-87.872986"
              y="198.02525"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Bold;-inkscape-font-specification:Gramatika-Bold;text-align:center;text-anchor:middle;fill:#d78249;fill-opacity:1;stroke-width:0.66259795">2</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Bold;-inkscape-font-specification:Gramatika-Bold;text-align:center;text-anchor:middle;fill:#ca783e;fill-opacity:0.94117647;stroke-width:0.66259795">2</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.5039196px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#d78249;fill-opacity:1;stroke:none;stroke-width:0.66259795"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.5039196px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#ca783e;fill-opacity:0.94117647;stroke:none;stroke-width:0.66259795"
            x="-80.745659"
            y="198.02527"
            id="text1228-2-11-5"
@@ -2239,7 +2239,7 @@
              id="tspan1226-2-16-0"
              x="-80.745659"
              y="198.02527"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Bold;-inkscape-font-specification:Gramatika-Bold;fill:#d78249;fill-opacity:1;stroke-width:0.66259795">0</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gramatika-Bold;-inkscape-font-specification:Gramatika-Bold;fill:#ca783e;fill-opacity:0.94117647;stroke-width:0.66259795">0</tspan></text>
       </g>
     </g>
     <text
